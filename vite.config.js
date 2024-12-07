@@ -2,7 +2,10 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
 
 // https://vitejs.dev/config/
-export default defineConfig({
-  base: mode === 'production' ? '/myPortfolio/' : '/',
-  plugins: [react()],
-})
+// Export configuration
+export default defineConfig(({ mode }) => {
+  return {
+    base: mode === 'production' ? '/myPortfolio/' : '/', // Adjust base for production
+    plugins: [react()],
+  };
+});
