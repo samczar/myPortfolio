@@ -6,6 +6,7 @@ const info = {
         role: "Senior Full Stack Developer",
         photo: "samCzar.png",
         email: "sam.anyanka@gmail.com",
+        phone: "+64220273007"
     },
 
     // ============ SOCIAL LINKS ============

@@ -9,7 +9,7 @@ function EducationAndExperience() {
   return (
     <section id="education-and-experience" className="mt-20 mx-4 lg:mx-20 flex flex-col md:flex-row gap-4 md:gap-2">
       {/* =========== EDUCATION =========== */}
-      <div className="w-full md:w-[80%]">
+      <div className="w-full">
         {/* =========== EDUCATION TITLE =========== */}
         <h4 className="text-xl dark:text-white mb-4 font-bold flex gap-2 items-center">
           <FaLandmark className="text-xl text-red-800 dark:text-red-500" />
@@ -64,7 +64,7 @@ function EducationAndExperience() {
           Experience
         </h4>
 
-        <div className="md:h-[480px] md:overflow-y-scroll scroll-smooth">
+        <div>
           {/* =========== EXPERIENCE LIST =========== */}
           {user_info.experience.map((exp, index) => {
             return (

@@ -13,7 +13,7 @@ function Skills() {
     <section id="skills" className="mx-4 lg:mx-20">
       {/* =========== SKILLS TITLE =========== */}
       <h4 className="text-4xl font-bold text-center mt-20 dark:text-white">
-        Technologies I Use.
+        Technologies I Use
       </h4>
       {/* =========== LIST OF SKILLS =========== */}
       <h5 className="text-xl font-bold text-center mt-20 dark:text-white">
