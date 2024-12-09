@@ -4,7 +4,7 @@ const info = {
         name: "Sam Anyanka",
         description: "I am a Senior Full Stack Developer with over 10 years of experience specializing in web and mobile solutions. My expertise spans a wide range of technologies, including React.js, Node.js, React Native, and Generative AI applications. I am passionate about delivering scalable, high-quality software that drives business results and enhances user experiences.",
         role: "Senior Full Stack Developer",
-        photo: "samCzar.png",
+        photo: "samCzarHeavens.png",
         email: "sam.anyanka@gmail.com",
         phone: "+64220273007"
     },

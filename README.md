@@ -2,7 +2,7 @@
 # SAMCZAR PORTFOLIO V1
 
 <center>
-    <img src="/public/samCzar.png" alt="samczar" />
+    <img src="/public/samCzarHeavens.png" alt="samczar" />
 </center>
 
 <center>
